@@ -1,13 +1,14 @@
 # Shopping_Cart
 
-[This assignment/repo is currently under construction...it will be updated once the kinks are worked out]
+This React Shoppin Cart app uses a Strapi database to restock items at the click of a button. The user can also add items or remove items from their cart, both of which updates the total checkout price. The database can be used to add new items to the "store", or remove current items completely. 
 
-<img src="">
+https://user-images.githubusercontent.com/105984477/201136725-72150696-3dc6-4e71-b0a4-552bcb35a3bb.mov
 
 <h2>To run:</h2>
+[under contruction...]
 
 <h2>Roadmap of future improvements:</h2>
-Once I am able to figure out how, the restocking will pull the data about specific items from a Strapi database. Currently, the restocking works, but the data is not being read. 
+I will eventually return to work on the styling of this app to make it look better and more appealing. The checkout function currently does nothing, so in the future I will add an alert or something like that to make it clear a purchase has been made. 
 
 <h2>Support:</h2>
 Feel free to message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions.
